@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophympean.github.io/sitemap.html.gz
+Sitemap: https://ophympean.github.io/app/sitemap.html.gz
+Sitemap: https://ophympean.github.io/assets/sitemap.html.gz
+Sitemap: https://ophympean.github.io/css/sitemap.html.gz
+Sitemap: https://ophympean.github.io/data/sitemap.html.gz
+Sitemap: https://ophympean.github.io/includes/sitemap.html.gz
+Sitemap: https://ophympean.github.io/item/sitemap.html.gz
+Sitemap: https://ophympean.github.io/src/sitemap.html.gz
